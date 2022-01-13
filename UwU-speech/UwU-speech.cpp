@@ -41,9 +41,6 @@ void loop()
      loop();
 }
 
-
-
-
 int main()
 {
     SetConsoleTitle(TEXT("uwu twanswator"));
