@@ -14,7 +14,6 @@ std::string ReplaceAll(std::string str, const std::string& from, const std::stri
 
 std::string translate(std::string input)
 {
-
     system("cls");
     std::string a,b,c,d,e,f,g,h;
     a = ReplaceAll(std::string(input), std::string("l"), std::string("w"));
